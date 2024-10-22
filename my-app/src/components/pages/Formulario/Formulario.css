@@ -1,0 +1,8 @@
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+.Botao-calcularton {
+    font-size: 500px;
+}
